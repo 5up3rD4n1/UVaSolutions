@@ -29,3 +29,8 @@
 
 #Idea path
 .idea/
+Debug/
+
+main.cpp
+
+CMakeLists.txt
